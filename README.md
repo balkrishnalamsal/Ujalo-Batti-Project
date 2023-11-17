@@ -1,4 +1,4 @@
-# ujalobatti
+# Ujjalobatti App
 
 Ujjalo Batti is a app made with Flutter,
 
